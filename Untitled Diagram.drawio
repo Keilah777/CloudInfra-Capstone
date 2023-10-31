@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T04:16:14.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sn_XMDuNc763xYitHB0q" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T04:28:20.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mt1hw_YTNa3jVVm86gZe" version="22.0.8" type="github">
   <diagram name="Page-1" id="7xt4pQumDP3tBfooaIeJ">
     <mxGraphModel dx="1687" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -52,6 +52,12 @@
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-103" value="W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=22;fontStyle=0" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-39">
           <mxGeometry x="60" y="130" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-109" value="Cosmos DB readers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-39">
+          <mxGeometry x="-345" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-110" value="Cosmos DB writers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-39">
+          <mxGeometry x="10" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.nat_gateway;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
           <mxGeometry x="100" y="123" width="64" height="64" as="geometry" />
         </mxCell>
@@ -68,7 +74,7 @@
           <mxGeometry x="396" y="80" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-60" value="Auto Scaling group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
-          <mxGeometry x="365" y="128" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="123" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-62" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
           <mxGeometry x="200" y="390" width="40" height="60" as="geometry" />
@@ -85,7 +91,7 @@
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-67" value="Azure Cosmos DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
           <mxGeometry x="360" y="510" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5_k-YT-q-z1sVr0RyAKI-69" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-69" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontColor=#FF9933;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
           <mxGeometry x="260" y="115" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
@@ -102,6 +108,27 @@
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-74" value="R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=22;fontStyle=0" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
           <mxGeometry x="200" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-104" value="&lt;font color=&quot;#b3b3b3&quot;&gt;Optional bastion access&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5_k-YT-q-z1sVr0RyAKI-32">
+          <mxGeometry x="345" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-105" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="950" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-106" value="Azure Service Bus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="243" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-107" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/monitor/SAP_Azure_Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="946.25" y="310" width="87.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-108" value="Azure Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-111" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.tenant_key;fontColor=#000000;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="977.25" y="460" width="25.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-112" value="KMS key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="955" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
