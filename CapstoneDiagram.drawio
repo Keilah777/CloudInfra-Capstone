@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T15:10:39.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8DpL8fHn9G5Ef5q0vSSD" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T15:11:34.852Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yub0g15C-PJZ1QhgaE4L" version="22.0.8" type="github">
   <diagram name="Page-1" id="7xt4pQumDP3tBfooaIeJ">
     <mxGraphModel dx="1212" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -89,16 +89,16 @@
           <mxGeometry x="360" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-69" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;fontColor=#FF9933;" parent="5_k-YT-q-z1sVr0RyAKI-32" vertex="1">
-          <mxGeometry x="260" y="115" width="70" height="70" as="geometry" />
+          <mxGeometry x="240" y="110" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" parent="5_k-YT-q-z1sVr0RyAKI-32" vertex="1">
-          <mxGeometry x="540" y="115" width="70" height="70" as="geometry" />
+          <mxGeometry x="540" y="110" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-71" value="Bastion Host" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5_k-YT-q-z1sVr0RyAKI-32" vertex="1">
-          <mxGeometry x="250" y="185" width="90" height="30" as="geometry" />
+          <mxGeometry x="230" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-72" value="Bastion Host" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5_k-YT-q-z1sVr0RyAKI-32" vertex="1">
-          <mxGeometry x="530" y="185" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-73" value="R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=22;fontStyle=0" parent="5_k-YT-q-z1sVr0RyAKI-32" vertex="1">
           <mxGeometry x="200" y="490" width="40" height="40" as="geometry" />
