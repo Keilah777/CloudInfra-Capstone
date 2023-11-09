@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T05:19:13.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="S9aDAd_t-XTV_V_qECMg" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T15:24:39.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0-9w3tN5H_CyWjxpUwBO" version="22.1.0" type="github">
   <diagram name="Page-1" id="7xt4pQumDP3tBfooaIeJ">
     <mxGraphModel dx="1212" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="jHHWez1aKjKvFsPRnYN8-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" parent="1" vertex="1">
           <mxGeometry x="300" y="596" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="5_k-YT-q-z1sVr0RyAKI-61" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5_k-YT-q-z1sVr0RyAKI-61" value="Network security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="480" width="530" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5_k-YT-q-z1sVr0RyAKI-109" value="DB readers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
